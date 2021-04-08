@@ -1,5 +1,5 @@
 # TestingChallenges-Selenium
-Automation for Challenge 1,4 and 10
+Automation for Challenge 1, 4 and 10
 
 Challenge 1 performs 8 tests with asserts
 Challenge 4 creates 5 unique CNP's
