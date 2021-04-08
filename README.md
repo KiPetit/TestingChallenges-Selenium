@@ -1,9 +1,9 @@
 # TestingChallenges-Selenium
 Automation for Challenge 1, 4 and 10
 
-Challenge 1 performs 8 tests with asserts
-Challenge 4 creates 5 unique CNP's
-Challenge 10 creates random user and takes credential from DDR.xlsx file
+Challenge 1 performs 8 tests with asserts <br />
+Challenge 4 creates 5 unique CNP's <br />
+Challenge 10 creates random user and takes credential from DDR.xlsx file <br />
 
 ## Requirements
 
