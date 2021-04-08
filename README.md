@@ -7,13 +7,13 @@ Challenge 10 creates random user and takes credential from DDR.xlsx file <br />
 
 ## Requirements
 
-Maven 3.6.3 is required
-Java 15.0.2 is required
+Maven 3.6.3 is required <br />
+Java 15.0.2 is required <br />
 
 Change chromedriver from /src/main/resources according to your system 
 
 ## Usage
 
-From maven: mvn test
+From maven: mvn test <br />
 
-From IDE: run testng.xml file
+From IDE: run testng.xml file <br />
